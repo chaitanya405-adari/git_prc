@@ -1,0 +1,12 @@
+
+
+Data Lake
+Lakehouse or data lake – is a marketing term used in Databricks for storage layer which can accommodate structured or unstructured, streaming or batch information. It’s a simple platform to store all data. Data lake from Databricks is called delta lake. Below are a few features of delta lake.
+
+It’s based on Parque file format.
+Compatible with Apache Spark.
+Versioning of data.
+ACID transactions –  (atomicity, consistency, isolation, durability) ensure data durability and consistency.
+Batch and streaming data sink
+Supports deleting and upserting into tables using API’s
+Able to query millions of files using Spark
